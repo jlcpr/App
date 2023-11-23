@@ -1,0 +1,69 @@
+.contenedora {
+    border: solid 5px rgb(158, 198, 249);
+    width: 100%;
+    max-width: 500px;
+    margin: 0px auto;
+    font-size: 30px;
+    padding: 20px;
+    text-align: center;
+    min-height: 100vh;
+    box-shadow: 0px 0px 10px #ccc;
+    color: #555;
+    font-family: Arial;
+    background-color: #F9F8F5;
+    border-radius: 25px;
+}
+
+.tituloa{
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+.logoa {
+    width: 200px;
+    height: 200px;
+}
+
+.caja-correoa, .caja-passworda {
+    font-size: 30px;
+    width: 100%;
+    border: none;
+    border-bottom: solid 1px rgb(158, 198, 249);
+    outline: none;
+    margin-top: 10px;
+    background-color: #F9F8F5;
+}
+
+input::placeholder{
+    color: #ccc;
+}
+
+.agrupador-correoa, .agrupador-passworda {
+    margin-top: 20px;
+    text-align: left;
+}
+
+.agrupador-botona {
+    margin-top: 30px;
+}
+
+.boton-ingresara {
+    font-size: 30px;
+    background-color:rgb(158, 198, 249);
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+    border: none;
+    width: 180px;
+    margin: 30px;
+}
+
+.otros.botonesa {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.link-registroa, .link-passworda {
+    color: #999;
+    display: block;
+}

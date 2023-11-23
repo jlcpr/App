@@ -1,0 +1,76 @@
+.contenedorb {
+    border: solid 5px rgb(158, 198, 249);;
+    width: 100%;
+    max-width: 500px;
+    margin: 0px auto;
+    font-size: 30px;
+    padding: 20px;
+    text-align: center;
+    min-height: 100vh;
+    box-shadow: 0px 0px 10px #ccc;
+    color: #555;
+    font-family: Arial;
+    background-color: #F9F8F5;
+    border-radius: 25px;
+}
+
+.titulob{
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+.logob {
+    width: 200px;
+    height: 200px;
+}
+
+.caja-correob {
+    font-size: 30px;
+    width: 100%;
+    border: none;
+    border-bottom: solid 1px rgb(158, 198, 249);
+    outline: none;
+    margin-top: 10px;
+    background-color: #F9F8F5;
+}
+
+input::placeholder{
+    color: #ccc;
+}
+
+.agrupador-correob {
+    margin-top: 20px;
+    text-align: left;
+}
+
+
+.agrupador-botonb {
+    margin-top: 30px;
+}
+
+.boton-aceptarb {
+    font-size: 30px;
+    background-color: rgb(158, 198, 249);
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+    border: none;
+    width: 180px;
+}
+
+.RecuperarContrasenab {
+    margin-top: 50px; 
+    margin-bottom: 75px;
+}
+
+.boton-regresarb {
+    font-size: 30px;
+    background-color: rgb(158, 148, 249);
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+    text-decoration: none;
+    width: 180px;
+    display: block;
+    margin: 0px auto;
+}
